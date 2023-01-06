@@ -75,14 +75,13 @@ main {
 }
 
 .progress-bar p {
-    font-size: 10px;
+    font-size: 12px;
     margin-top: 16.5px;
     margin-left: 15px;
     font-family: 'Sora-Bold';
     letter-spacing: 0.57px;
-    color: #31C332;
+    color: #000;
     text-transform: uppercase;
-    opacity: 1;
 }
 @keyframes tamanhoProgressBar {
     0% {
