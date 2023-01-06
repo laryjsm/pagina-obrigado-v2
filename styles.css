@@ -68,7 +68,7 @@ main {
 .progress-bar::before {
     content: "";
     width: 50%;
-    background-color: #A6C912;
+    background-color: #31C332;
     border-radius: 3px;
     animation-name: tamanhoProgressBar;
     animation-duration: 1.5s;
@@ -80,7 +80,7 @@ main {
     margin-left: 15px;
     font-family: 'Sora-Bold';
     letter-spacing: 0.57px;
-    color: #A6C912;
+    color: #31C332;
     text-transform: uppercase;
     opacity: 1;
 }
